@@ -5,3 +5,7 @@ Analysis of data on covid-19
 - The data source used is found: [covid-19](https://github.com/whoismurilo/covid_19/blob/main/caso.csv.gz), 
 - I also made it available in the folder `data` (File: ***caso.csv.gz***) and (File: ***Data_covid-19_SP***)
 - Extraction and cleaning of the data was done removing the null values, and then separate to work with the information from the state of *são paulo*
+
+### Tools
+- I used the google colab environment to perform data processing
+
